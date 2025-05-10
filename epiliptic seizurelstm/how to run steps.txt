@@ -1,0 +1,19 @@
+how to run steps
+
+step 1 :open anaconda prompt from search
+
+type
+
+conda activate tf
+
+step 2: cd C:\Users\perum\OneDrive\Desktop\epiliptic seizurelstm
+
+python app.py
+
+step 3:open another anaconda prompt from search
+
+type
+
+cd C:\Users\perum\OneDrive\Desktop\epiliptic seizurelstm
+
+jupyter notebook epileptic-seizures.ipynb

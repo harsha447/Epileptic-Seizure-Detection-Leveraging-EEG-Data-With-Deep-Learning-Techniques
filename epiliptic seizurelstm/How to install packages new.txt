@@ -1,0 +1,26 @@
+how to install packages
+
+open aanconda prompt from search 
+
+type 
+
+conda create -n tf python==3.7.9 ( enter ) 
+
+y ( enter ) 
+
+conda activate tf ( enter )
+
+type 
+
+pip install tensorflow==2.3.0 ( enter ) 
+
+pip install scikit-learn==1.0.1 ( enter )
+
+pip install pandas
+pip install matplotlib
+pip install opencv-contrib-python
+pip install imutils
+pip install notebook
+
+pip install mysqlclient==2.0.1
+
